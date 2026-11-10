@@ -1,0 +1,6 @@
+{
+  "name": "CourseCompass - College Course Recommender & AI Advisor",
+  "description": "Personalized course discovery and AI academic advising platform tailored to student interests, degree requirements, and career goals, debuting with Indiana University Bloomington.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
